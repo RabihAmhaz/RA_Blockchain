@@ -1,0 +1,17 @@
+[
+    {	"name":"John",
+		"nommedecin": "Doe",
+        "raisonvisite": "mal de gorge",
+        "maladiedetecte": "angine",
+        "traitementprescrit": "paracetamol",
+        "etatdupatient": "bon"
+    },
+    {
+		"name":"John1",
+		"nommedecin": "Doe1",
+		"raisonvisite": "mal de gorge1",
+        "maladiedetecte": "angine1",
+        "traitementprescrit": "paracetamol1",
+        "etatdupatient": "bon1"
+    }
+]
